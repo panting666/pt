@@ -210,7 +210,5 @@ public class ClaszDAO extends BaseHibernateDAO {
 		cdao.testFetch();
 		
 		
-		
-		
 	}
 }
